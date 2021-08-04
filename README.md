@@ -1,6 +1,6 @@
 ## Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Josh+here%2C+thanks+for+stopping+by;Below+are+a+few+of+my+stats)](https://git.io/typing-svg)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Josh+here%2C+thanks+for+stopping+by;Below+are+a+few+of+my+stats)](https://git.io/typing-svg)
 
 
 
@@ -8,7 +8,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joshdefreitas&show_icons=true)
 
 <!--
-**ShreyansK2000/ShreyansK2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### Languages used in my repositories
 
